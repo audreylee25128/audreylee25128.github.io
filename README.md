@@ -1,6 +1,6 @@
-# Otilia Stretcu's personal webpage
+# Audrey Lee's personal webpage
 
-This is the personal website of Otilia Stretcu, which can be visualized at [https://otiliastr.github.io/](https://otiliastr.github.io/).
+This is the personal website of Audrey Lee, which can be visualized at [https://audreylee25128.github.io/](https://audreylee25128.github.io/).
 
 ## How to use this template for your website
 
